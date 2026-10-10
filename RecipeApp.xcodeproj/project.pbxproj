@@ -53,6 +53,7 @@
 			children = (
 				A4B6CEEC30761FDC00279856 /* RecipeApp */,
 				A4B6CEDC30761E3D00279856 /* Products */,
+				A44C6B01307A72ED00A86B53 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,7 +68,6 @@
 		A4B6CEEC30761FDC00279856 /* RecipeApp */ = {
 			isa = PBXGroup;
 			children = (
-				A44C6B01307A72ED00A86B53 /* .gitignore */,
 				A4B6CEF230761FFF00279856 /* Data */,
 				A4B6CEF130761FEE00279856 /* Views */,
 				A4B6CEF030761FE000279856 /* Models */,
