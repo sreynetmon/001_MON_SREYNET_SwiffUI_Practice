@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A44C6B02307A72F400A86B53 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A44C6B01307A72ED00A86B53 /* .gitignore */; };
 		A4B6CEED30761FDC00279856 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A4B6CEE930761FDC00279856 /* Assets.xcassets */; };
 		A4B6CEEF30761FDC00279856 /* RecipeAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B6CEEB30761FDC00279856 /* RecipeAppApp.swift */; };
 		A4B6CEF43076204100279856 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4B6CEF33076204100279856 /* Recipe.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A44C6B01307A72ED00A86B53 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		A4B6CEDB30761E3D00279856 /* RecipeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecipeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4B6CEE930761FDC00279856 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A4B6CEEB30761FDC00279856 /* RecipeAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeAppApp.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		A4B6CEEC30761FDC00279856 /* RecipeApp */ = {
 			isa = PBXGroup;
 			children = (
+				A44C6B01307A72ED00A86B53 /* .gitignore */,
 				A4B6CEF230761FFF00279856 /* Data */,
 				A4B6CEF130761FEE00279856 /* Views */,
 				A4B6CEF030761FE000279856 /* Models */,
@@ -161,6 +164,7 @@
 		A4B6CED930761E3D00279856 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			files = (
+				A44C6B02307A72F400A86B53 /* .gitignore in Resources */,
 				A4B6CEED30761FDC00279856 /* Assets.xcassets in Resources */,
 			);
 		};
